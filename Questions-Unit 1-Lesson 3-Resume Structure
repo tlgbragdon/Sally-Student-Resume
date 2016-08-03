@@ -1,0 +1,12 @@
+It's not pretty but hopefully I'm on the right track with the structure.  Questions so far....
+
+
+<address> has its own formatting, putting whitespace around the address, but I wanted the full contact info to be more cohesive.  Is it accetable to use <address> for other related info?
+
+I don't like the way the image lines up; I'm assuming we can fix that later with CSS.
+
+For the image - I specified a different width/height than the actual image to resize it.  Is that acceptable to do or should the image be the desired size to start?
+
+How do I reconcile structural hierarrchy vs visual?  In writing a resume, I would put the company name and dates on the same line.  Should I have had them at the same header level?
+
+How do divs relate to elements like header, main, & section.  Are they just specialized versions of div?
